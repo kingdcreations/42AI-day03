@@ -51,5 +51,5 @@ ip.display(ju)
 ju = sb.juxtapose(img, 3, 0)
 ip.display(ju)
 
-ju = sb.mosaic(img, (20, 20))
+ju = sb.mosaic(img, (2, 2))
 ip.display(ju)
